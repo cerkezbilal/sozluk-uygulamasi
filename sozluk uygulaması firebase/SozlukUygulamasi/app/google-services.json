@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527555002621",
+    "firebase_url": "https://sozluk-uygulamasi.firebaseio.com",
+    "project_id": "sozluk-uygulamasi",
+    "storage_bucket": "sozluk-uygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527555002621:android:a93c4d45da93a488",
+        "android_client_info": {
+          "package_name": "com.bilal.karademir.sozlukuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527555002621-p4cuo7pogtodeojk8sjkmijaoqmnhi6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilal.karademir.sozlukuygulamasi",
+            "certificate_hash": "4c4fd8c784d30d5d9a1717ae18c26215690d527a"
+          }
+        },
+        {
+          "client_id": "527555002621-hujc7q14iaqun14kc2orjn9bkggd2vsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gjVgpakkrqRWwehsOg6-sbH-T2nCr6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527555002621-hujc7q14iaqun14kc2orjn9bkggd2vsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
